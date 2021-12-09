@@ -32,7 +32,7 @@ Icones de desenvolvedores: https://devicon.dev/
 
 #
 
-<h3>My Github Account Details:</h3>
+<h3>My Github account details:</h3>
 
 <div align="center">
   <a href="https://github.com/andreinamendes?tab=repositories">
