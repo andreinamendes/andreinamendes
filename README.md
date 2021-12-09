@@ -10,9 +10,9 @@ Fazedor de gifs - https://picrew.me/image_maker/338224
 Icones de desenvolvedores: https://devicon.dev/
 -->
 
-## Hi, i'm Andreina Mendes. Welcome! 👋
+<h2 align="center">Hi, i'm Andreina Mendes. Welcome! 👋</h2>
 
-### I'm a Computer Science student and fascinated with the impacts of technology on our lives.
+<h3 align="center">I'm a Computer Science student and fascinated with the impacts of technology on our lives.</h3>
 
 - 📚 I’m currently a student at the Federal University of Ceará campus Quixadá
 - 📝 I’m currently learning Artificial Intelligence and Web Development
@@ -21,9 +21,9 @@ Icones de desenvolvedores: https://devicon.dev/
 
 #
 
-### Contacte with me:
+<h3>Contacte with me:</h3>
   
-<div>
+<div align="center">
   <a href="https://t.me/andreinamendes63" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dreina_md/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Dяєїлд#9013" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -32,7 +32,7 @@ Icones de desenvolvedores: https://devicon.dev/
 
 #
 
-### My Github Account Details:
+<h3>My Github Account Details:</h3>
 
 <div align="center">
   <a href="https://github.com/andreinamendes">
@@ -42,9 +42,9 @@ Icones de desenvolvedores: https://devicon.dev/
   
 #
   
-### My most use languages and tools:
+<h3>My most use languages and tools:</h3>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dreina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dreina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dreina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
