@@ -2,12 +2,11 @@
 **andreinamendes/andreinamendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Site para os emojis: https://emojipedia.org/objects/
-Guia de markdown - https://docs.pipz.com/central-de-ajud...
+Guia de markdown - https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 Site de emojis - https://emojipedia.org/search/?q=bag
-Repositório do Github Stats - https://github.com/anuraghazra/github...
-Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
+Repositório do Github Stats - https://github.com/anuraghazra/github-readme-stats
+Site de Badges 1 - https://dev.to/envoy_/150-badges-for-github-pnk
 Fazedor de gifs - https://picrew.me/image_maker/338224
-Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com/p/CPjUBhXDNEE/
 Icones de desenvolvedores: https://devicon.dev/
 -->
 
@@ -19,17 +18,21 @@ Icones de desenvolvedores: https://devicon.dev/
 - 📝 I’m currently learning Artificial Intelligence and Web Development
 - 😍 I want to get into companies and get to know the software development flow as well as learn about Project Management
 - ✉️ How to reach me: andreinamendes63@alu.ufc.br
+
+#
+
 #### Contacte with me:
   
-<div> 
+<div>
+  <a href="https://t.me/andreinamendes63" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dreina_md/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Dяєїлд#9013" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Dяєїлд#9013" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreina-mendes-7855941a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 #
 
-#### My Github Account Details:  
+#### My Github Account Details:
 
 <div align="center">
   <a href="https://github.com/andreinamendes">
@@ -53,3 +56,5 @@ Icones de desenvolvedores: https://devicon.dev/
   <img align="center" alt="Dreina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dreina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+#
