@@ -6,7 +6,7 @@ Site para os emojis: https://emojipedia.org/objects/
 
 ## Hi, i'm Andreina Mendes. Welcome! 👋
 
-### I'm a Computer Science student and fascinated with the impacts of technology on our lives.
+#### I'm a Computer Science student and fascinated with the impacts of technology on our lives.
 
 - 📚 I’m currently a student at the Federal University of Ceará campus Quixadá
 - 📝 I’m currently learning Artificial Intelligence and Web Development
