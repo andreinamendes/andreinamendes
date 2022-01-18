@@ -41,8 +41,6 @@ Icones de desenvolvedores: https://devicon.dev/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreinamendes&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
   
-#
-  
 <h3>My most use languages and tools:</h3>
   
 <div style="display: inline_block" align="center"><br>
