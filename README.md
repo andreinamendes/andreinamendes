@@ -18,7 +18,7 @@ Icones de desenvolvedores: https://devicon.dev/
 - 📝 I’m currently learning Artificial Intelligence and Web Development
 - 😍 I want to get into companies and get to know the software development flow as well as learn about Project Management
 - 👩‍💻 My academic curriculum: http://lattes.cnpq.br/7401022808269612
-- ✉️ How to reach me: andreinamendes63@alu.ufc.br
+- ✉️ How to reach me: andreinamendes63@gmail.com
 
 #
 
